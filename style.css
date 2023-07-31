@@ -1,0 +1,39 @@
+body
+{
+    font-family: fantasy;
+    color: aliceblue;
+    background-size: cover;
+}
+button
+{
+    color: purple;
+    font-size: 18;
+}
+#footer
+{
+    position:fixed;
+    bottom:0;
+    text-align: center;
+    width: 100%;
+    background-color:purple;
+    line-height: 2;
+    vertical-align: bottom;
+}
+#number_of_objects, #status
+{
+    color:aliceblue;
+    background-color: purple;
+    width:fit-content;
+}
+canvas
+{
+    border: 5px ridge purple;
+    border-radius: 20px;
+    box-shadow: 5px 5px purple;
+}
+#heading
+{
+    background-color: purple;
+    width:25%;
+    line-height: 2;
+}
